@@ -1,6 +1,3 @@
-#include <stdio.h>
-
-int main(){
-	printf("Hello Wolrd!\n");
-	return 0;
+int main(void){
+return 1;
 }
