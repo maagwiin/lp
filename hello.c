@@ -1,3 +1,7 @@
+#include <stdio.h>
+
 int main(void){
-return 1;
+	printf("\tOi Magnu!!\n");
+
+return 0;
 }
